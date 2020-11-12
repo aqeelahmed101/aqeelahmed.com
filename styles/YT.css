@@ -1,0 +1,74 @@
+*
+{
+   margin: 0%;
+   padding: 0%;
+}
+header
+{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+}
+
+
+form
+{
+    background-color: none;
+    width: 35%;
+    height: 25px;
+
+}
+.search
+{
+    background-color: yellow;
+    width: 60%;
+    height: auto;
+    margin-top: 2%;
+    padding: 10px;
+    height: auto;
+    float: right;
+}
+.btn
+{
+    float: right;
+    background-color: aquamarine;
+    width: 18%;
+    height: auto;
+    margin-top: 2%;
+    margin-right: 10px;
+    padding: 10px;
+}
+.btn button
+{
+    float: right;
+    padding: 5px;
+    width: 45px;
+    
+}
+
+.search form
+{
+    display: inline;
+
+}
+.search1
+{
+    padding: 10px;
+    width: 90%;
+    float: right;
+
+}
+.search3
+{
+     width: 8%;
+    height: auto;
+    padding: 5px;
+    float: right;
+}
+/* nav
+{
+    background-color: rgba(0, 0, 0, 0.856);
+    width: 100%;
+    height: 15%;
+} */
